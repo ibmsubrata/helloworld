@@ -1,0 +1,10 @@
+applications:
+- path: JavaCloudantApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: 123web
+  host: 123web
+  disk_quota: 1024M
+  services:
+  - 123web-cloudantNoSQLDB
