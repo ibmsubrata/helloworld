@@ -1,5 +1,5 @@
 
-<a href="https://bluemix.net/deploy?repository=YOUR_GIT_URL_HERE"> <img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a>
+<a href="https://bluemix.net/deploy?repository=https://github.com/ibmsubrata/helloworld.git"> <img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a>
 
 
 
