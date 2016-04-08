@@ -1,3 +1,7 @@
+declared-services
+ - 123web-cloudantNoSQLDB
+ "label": "cloudantNoSQLDB"
+  "plan": "Shared"
 applications:
 - path: JavaCloudantApp.war
   memory: 512M
@@ -6,5 +10,5 @@ applications:
   name: 123web
   host: 123web
   disk_quota: 1024M
-  services:
-  - 123web-cloudantNoSQLDB
+  
+ 
